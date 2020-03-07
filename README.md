@@ -1,0 +1,1 @@
+# go-mockery-mock-sample
